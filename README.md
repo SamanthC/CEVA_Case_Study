@@ -1,4 +1,5 @@
 # CEVA_Case_Study
 
-You'll find in this project the notebook for analysis and the script in "src" for validation prediction. The prediction will be in the "data" folder with the date and time of edition. 
+The goal of this case study is to predict the delay that a shipment from a supplier to a customer can have.
+You will find the exploratory data analysis in the "notebooks" folder and the script to make a prediction in the "src" folder. The csv generated will be in the "data" folder with the date and time of edition.
 
